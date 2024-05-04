@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "outDir": "./lib",
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "target": "es2015",
+    "module": "Node16",
+    "moduleResolution": "Node16"
+  },
+  "include": ["./src/**/*"]
+}

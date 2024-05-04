@@ -1,0 +1,23 @@
+{
+  "name": "@dgck81lnn/jvozba",
+  "version": "0.1.0",
+  "packageManager": "yarn@4.2.0",
+  "main": "lib/index.js",
+  "types": "src/index.ts",
+  "files": [
+    "lib",
+    "src",
+    "rafsi_list.json",
+    "rafsi_list.json.d.ts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dgck81lnn/jvozba.git"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
